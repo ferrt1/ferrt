@@ -16,7 +16,7 @@ export const ProjectsContainer = () => {
           alt={"Web de EVS "}
           title={"Transporte Web"}
           description="Prototipo de FrontWeb para Universidad."
-          href={"https://ferrt1.github.io/ingeproto/"}
+          href={"https://ferrt1.github.io/protoevs/"}
           technologies={"React, JavaScript, HTML, CSS"}
           texto={"Visitar"}
         />
