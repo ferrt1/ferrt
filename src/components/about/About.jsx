@@ -4,7 +4,7 @@ import { MdDownload } from "react-icons/md";
 
 export const About = () => {
   const handleDownloadCV = () => {
-    const fileUrl = "ferrt/assets/documents/TrejoFernando2024cv.pdf";
+    const fileUrl = "https://ferrt1.github.io/ferrt/assets/documents/TrejoFernando2024cv.pdf";
 
     const a = document.createElement("a");
     a.href = fileUrl;
