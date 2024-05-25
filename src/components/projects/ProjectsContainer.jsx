@@ -1,7 +1,7 @@
 import { Project } from "./Project";
 import { PiSuitcaseSimpleFill } from "react-icons/pi";
 import protoEVS from "../../assets/imgs/projects/protoEVS.png";
-import protoIngenieria from "../../assets/imgs/projects/protoingenieria.png";
+import protoIngenieria from "../../assets/imgs/projects/protoingenieria.webp";
 import database from "../../assets/imgs/projects/postgresql.png";
 import ungsnet from "../../assets/imgs/projects/ungsnet.png";
 

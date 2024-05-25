@@ -1,4 +1,4 @@
-import yoImage from "../../assets/imgs/profile/yo2.png";
+import yoImage from "../../assets/imgs/profile/icon.webp";
 import { FaGithub } from "react-icons/fa6";
 import { FaLinkedin } from "react-icons/fa";
 
