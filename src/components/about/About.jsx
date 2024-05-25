@@ -4,13 +4,13 @@ import { MdDownload } from "react-icons/md";
 
 export const About = () => {
   const handleDownloadCV = () => {
-    const fileUrl = "/assets/documents/TrejoFernando2024cv.pdf";
+    const fileUrl = "ferrt/assets/documents/TrejoFernando2024cv.pdf";
 
     const a = document.createElement("a");
     a.href = fileUrl;
     a.target = "_blank";
     a.download = "TrejoFernando2024cv.pdf"; 
-    
+
     a.click();
   };
 
