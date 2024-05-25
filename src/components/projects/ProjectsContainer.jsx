@@ -66,7 +66,7 @@ export const ProjectsContainer = () => {
               texto={"Código"}
             />
           </div>
-          // Agrega más proyectos aquí si es necesario
+          // agregar mas proyectos de ser necesario
         )}
       </div>
       <div className="grid md:grid-cols-2 gap-4">

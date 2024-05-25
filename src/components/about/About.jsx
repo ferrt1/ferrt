@@ -9,7 +9,7 @@ export const About = () => {
     const a = document.createElement("a");
     a.href = fileUrl;
     a.target = "_blank";
-    a.download = "cvTrejoFernando.pdf"; 
+    a.download = "TrejoFernando2024cv.pdf"; 
 
     a.click();
   };
